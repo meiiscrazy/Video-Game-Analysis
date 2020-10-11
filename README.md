@@ -1,7 +1,7 @@
 # Video-Game-Analysis
 
 ## Presentation
-{google_docs}https://docs.google.com/presentation/d/e/2PACX-1vR56l8IYWTMHR8AB8W61bO9kn2tZQN5pAtphr7R5G5v31S47psuxxIH2_TCWjKyA35NBUueSiZ_TL0I/pub?start=false&loop=false&delayms=3000{/google_docs} 
+{google_docs}https://docs.google.com/presentation/d/e/2PACX-1vR56l8IYWTMHR8AB8W61bO9kn2tZQN5pAtphr7R5G5v31S47psuxxIH2_TCWjKyA35NBUueSiZ_TL0I/pub?start=false&loop=false&delayms=3000 {/google_docs} 
 
 ## Topic
 Analyzing the most popular video games to predict what type/genre video game will be popular in the upcoming months
