@@ -1,7 +1,11 @@
 # Video-Game-Analysis
 
 ## Presentation
-https://docs.google.com/presentation/d/e/2PACX-1vR56l8IYWTMHR8AB8W61bO9kn2tZQN5pAtphr7R5G5v31S47psuxxIH2_TCWjKyA35NBUueSiZ_TL0I/pub?start=false&loop=false&delayms=3000
+https://docs.google.com/presentation/d/1yCDlBEnNzUETAqg6hw0UhwyvKmxIxOfuXmUYwiyt2jw/edit?usp=sharing
+
+## Final Presentation and Recording
+https://docs.google.com/presentation/d/1F2vPbk1FQwRawPsIchmNKKqJq2pdLOP85Ex46gSOpLg/edit?usp=sharing
+https://drive.google.com/file/d/1qHSxrrQ663Appq8pMvxjKv4cvjxaryq_/view?usp=sharing
 
 ## Tableau Dashboard
 https://public.tableau.com/profile/betsy1119#!/vizhome/SteamStory/Story1?publish=yes
